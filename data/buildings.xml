@@ -1,0 +1,19 @@
+<buildings>
+  <building>
+    <name>Main Plant</name>
+    <location>Tel Aviv</location>
+    <systems>
+      <system>
+        <name>Pumps</name>
+        <sensor>
+          <name>Pressure</name>
+          <value>12</value>
+        </sensor>
+        <sensor>
+          <name>Flow</name>
+          <value>30</value>
+        </sensor>
+      </system>
+    </systems>
+  </building>
+</buildings>
